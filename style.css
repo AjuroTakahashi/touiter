@@ -1,0 +1,26 @@
+.touit {
+    border: 1px solid rgb(61, 111, 177)
+}
+
+#modal-comments {
+    white-space: pre;
+    word-break: break-word;
+    word-wrap: break-word;
+}
+
+#body-trending {
+    white-space: pre;
+    word-break: break-word;
+    word-wrap: break-word;
+}
+
+#body-influencers {
+    white-space: pre;
+    word-break: break-word;
+    word-wrap: break-word;
+}
+
+.alert-message {
+    color: red;
+    transition: .3s;
+}
